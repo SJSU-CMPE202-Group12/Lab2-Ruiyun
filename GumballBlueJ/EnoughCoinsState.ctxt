@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=m
+comment0.target=EnoughCoinsState(GumballMachinePattern)
+comment1.params=
+comment1.target=void\ insertQuarter()
+comment2.params=
+comment2.target=void\ insertDime()
+comment3.params=
+comment3.target=void\ insertNickel()
+comment4.params=
+comment4.target=void\ turnCrank()
+numComments=5

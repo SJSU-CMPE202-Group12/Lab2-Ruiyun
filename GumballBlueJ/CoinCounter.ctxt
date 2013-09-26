@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CoinCounter()
+comment1.params=
+comment1.target=void\ clear()
+comment2.params=coinType
+comment2.target=void\ insert(CoinType)
+comment3.params=
+comment3.target=int\ totalValue()
+numComments=4
